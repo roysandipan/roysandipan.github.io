@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://roysandipan.github.io//post/</loc>
+      <loc>https://roysandipan.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>https://roysandipan.github.io//publication/</loc>
+      <loc>https://roysandipan.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>https://roysandipan.github.io//talk/</loc>
+      <loc>https://roysandipan.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -28,7 +28,23 @@
     
     <url>
     
-      <loc>https://roysandipan.github.io//</loc>
+      <loc>https://roysandipan.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://roysandipan.github.io/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://roysandipan.github.io/</loc>
       <lastmod>2017-10-15T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -37,23 +53,7 @@
     
     <url>
     
-      <loc>https://roysandipan.github.io//categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://roysandipan.github.io//publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://roysandipan.github.io//tags/</loc>
+      <loc>https://roysandipan.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
