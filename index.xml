@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CV</title>
+      <link>https://roysandipan.github.io/cv/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0100</pubDate>
+      
+      <guid>https://roysandipan.github.io/cv/</guid>
+      <description>&lt;a href=&#34;https://roysandipan.github.io/files/cv.pdf&#34;&gt;Download my CV&lt;/a&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Likelihood Inference for Large Scale Stochastic Blockmodels with Covariates based on a Divide-and-Conquer Parallelizable Algorithm with Communication</title>
       <link>https://roysandipan.github.io/publication/parallel_algorithm_paper/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
