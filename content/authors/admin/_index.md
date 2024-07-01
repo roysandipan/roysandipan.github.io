@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Sandipan Roy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sandipan
+last_name: Roy
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,51 +20,48 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Associate Professor in Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Bath
+    url: https://www.bath.ac.uk/departments/department-of-mathematical-sciences/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto: sr2081@bath.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/sroy1718
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/roysandipan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sandipan12/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=r_wmwi4AAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graphical Models
+  - Statistical Modelling of Networks
+  - Differential Privacy
+  - High Dimensional Estimation and Inference
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistics
+    institution: University of Michigan
+    date_start: 2010-08-01
+    date_end: 2015-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Mstat Statistics
+    institution: Indian Statistical Institute
+    date_start: 2010-07-31
+    date_end: 2008-07-01
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +69,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Statistics
+    institution: Presidency University (Previously Presidency College)
+    date_start: 2008-06-30
+    date_end: 2005-06-01
     summary: |
       GPA: 3.4/4.0
       
@@ -84,12 +81,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Post-doctoral Research Associate
+    company_name: University College London
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2015-08-01
+    date_end: 2018-07-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -110,33 +107,33 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: ''
     items:
-      - name: Python
+      - name: ''
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: ''
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: ''
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: ''
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: ''
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: ''
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: ''
         description: ''
         percent: 80
         icon: camera
@@ -144,9 +141,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
     percent: 75
-  - name: Portuguese
+  - name: Bengali
     percent: 25
 
 # Awards.
@@ -154,33 +151,26 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Travel Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2018-06-01'
+    awarder: Institute of Society of Nonparametric Statistics
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: Student Paper titled "Estimating a Change-point in High Dimensional Markov Random Field Model"
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+    date: '2014-07-01'
+    awarder: Joint Applied Statistics symposium of International Chinese Statistical Association and International Korean Statistical Society
     icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sandipan is a Associate Professor of Statistics at the Department of Mathematical Sciences at University of Bath. His research interests include graphical models, Statistical modelling of networks and high dimensional statistical inference. He is a co-director of the Mathematics and Data for Algorithms (MAD) group at Bath which focusses on promoting research lying at the interaction of statistics, machine learning and optimization.
