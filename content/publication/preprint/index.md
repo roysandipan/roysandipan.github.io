@@ -17,20 +17,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We propose a novel way of representing and analysing single-cell genomic count data, by modelling the observed data count matrix as a network adjacency matrix, noting that similar levels of sparsity are observed in both these types of matrices. As the adjacency matrix is equivalent to the network it represents, this perspective enables theory from stochastic networks modelling to be applied in a principled way to single-cell genomic data, providing new ways to view and analyse data of this type, and giving first-principles theoretical justification to established, successful methods. From this perspective, we show how understanding the Laplacian spectral embedding is key to both visualisation of and unsupervised learning from single-cell genomic count data. We show the success of this approach for visualisation and unsupervised learning of cellular identities in three cell-biological contexts from the epiblast/epithelial/neural lineage. New technology has made it possible to gather genomic data from single cells at unprecedented scale, and this brings with it new challenges to deal with much higher levels of heterogeneity than expected between individual cells. Novel, tailored, computational-statistical methodology, as proposed in this paper, is crucial to deriving meaningful information from these new types of data, involving collaboration between mathematical and biomedical scientists.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: ''
 tags:
-- Large Language Models
+- Stochastic Network Models
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: ''
+url_pdf: https://arxiv.org/abs/2303.02498
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
