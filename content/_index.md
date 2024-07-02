@@ -15,14 +15,14 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: ''
-        url: ''
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
+      #button:
+        #text: ''
+        #url: ''
+    #design:
+      #css_class: dark
+      #background:
+        #color: black
+        #image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
