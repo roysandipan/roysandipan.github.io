@@ -50,7 +50,7 @@ interests:
 
 education:
   - area: PhD Statistics
-    institution: University of Michigan
+    institution: University of Michigan, Ann Arbor, USA
     date_start: 2010-08-01
     date_end: 2015-06-30
 
@@ -58,12 +58,12 @@ education:
       text: 'Read Thesis'
       url: 'https://deepblue.lib.umich.edu/handle/2027.42/113602'
   - area: Mstat Statistics
-    institution: Indian Statistical Institute
+    institution: Indian Statistical Institute, West Bengal, India
     date_start: 2010-07-31
     date_end: 2008-07-01
     summary: ''
   - area: BSc Statistics
-    institution: Presidency University (Previously Presidency College)
+    institution: Presidency University (Previously Presidency College), West Bengal, India
     date_start: 2008-06-30
     date_end: 2005-06-01
     summary: ''
