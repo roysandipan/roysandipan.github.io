@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My core research is at the intersection of statistics, machine learning and optimisation methods. My current research is focussed on modelling data with complex high dimensional network structure and provide methodology for estimating the corresponding structure using tools from nonparametric statistics, graphical models and high dimensional inference. The emphasis is placed on developing new theoretical techniques and computational tools for network problems and applying the corresponding methodology in many fields, including biomedical and social science research, where network modelling and analysis plays an exceedingly important role. 
+        
+        As a mathematical Statistician I am also interested in high dimensional Inference in regression models and understanding the theoretical insights in the modern "big data" framework. The development of novel algorithms  along with concrete theoretical results would enable practitioners to use them in many complex real world problems. I have a recent interest also in different optimization methods and especially understanding distributed/parallel computing with large heterogeneous data. These also include fast choice of tuning parameters in optimization algorithms and their implications in the proposed inference.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Recently, I have started working on deep learning with differential privacy, and associated inference problems.
         
         Please reach out to collaborate 😃
     design:
