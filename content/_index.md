@@ -69,6 +69,7 @@ sections:
       columns: 1
   - block: collection
     id: news
+    draft: true
     content:
       title: Recent News
       subtitle: ''
