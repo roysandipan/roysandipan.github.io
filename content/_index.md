@@ -43,15 +43,14 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
-  - block: collection
-    id: papers
+      columns: ''
+  - block: ''
+    id: ''
     content:
-      title: Featured Publications
+      title: ''
       filters:
-        folders:
-          - publication
-        featured_only: true
+        folders: []
+        featured_only: ''
     design:
       view: article-grid
       columns: 2
