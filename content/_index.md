@@ -42,15 +42,7 @@ sections:
         Recently, I have started working on deep learning with differential privacy, and associated inference problems.
         
         Please reach out to collaborate 😃
-    design:
-      columns: ''
-  - block: ''
-    id: ''
-    content:
-      title: ''
-      filters:
-        folders: []
-        featured_only: ''
+        
     design:
       view: article-grid
       columns: 2
@@ -61,7 +53,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
   - block: collection
