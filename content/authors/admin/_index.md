@@ -53,11 +53,10 @@ education:
     institution: University of Michigan
     date_start: 2010-08-01
     date_end: 2015-06-30
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://deepblue.lib.umich.edu/handle/2027.42/113602'
   - area: Mstat Statistics
     institution: Indian Statistical Institute
     date_start: 2010-07-31
@@ -81,31 +80,31 @@ work:
 skills:
   - name: ''
     items:
-      - name: ''
+      - name: 'cooking'
         description: ''
         percent: 80
         icon: code-bracket
       - name: ''
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: ''
       - name: ''
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: ''
   - name: ''
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: ''
+      - name: 'hiking'
         description: ''
         percent: 60
         icon: person-simple-walk
       - name: ''
         description: ''
         percent: 100
-        icon: cat
-      - name: ''
+        icon: ''
+      - name: 'photography'
         description: ''
         percent: 80
         icon: camera
@@ -127,19 +126,13 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2018-06-01'
     awarder: Institute of Society of Nonparametric Statistics
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    icon: ''
+
   - title: Student Paper titled "Estimating a Change-point in High Dimensional Markov Random Field Model"
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: ''
     date: '2014-07-01'
     awarder: Joint Applied Statistics symposium of International Chinese Statistical Association and International Korean Statistical Society
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+    icon: ''
 
 ---
 
