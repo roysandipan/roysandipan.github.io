@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: white
+  mode: light
+  color: sky
 
 # SEO
 marketing:
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Sandipan Roy. This work is licensed under {copyright} and last updated Aug 12, 2024'
+    notice: '© {2024} Sandipan Roy. This work is licensed under CC BY-NC 4.0 and last updated Aug 12, 2024'
     license:
       enable: true
       allow_derivatives: false
