@@ -60,6 +60,16 @@ sections:
   - block: collection
     id: teaching
     content:
+      title: Students
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    id: teaching
+    content:
       title: Teaching
       filters:
         folders:
