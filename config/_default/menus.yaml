@@ -10,7 +10,7 @@ main:
   - name: Research
     url: /#papers
     weight: 11
-  - name: Students
+  - name: People
     url: project/
     weight: 12
   # - name: News

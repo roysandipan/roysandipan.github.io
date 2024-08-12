@@ -60,12 +60,12 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Students
+      title: People
       filters:
         folders:
           - project
     design:
-      view: article-grid
+      view: showcase
       columns: 3
   - block: collection
     id: teaching

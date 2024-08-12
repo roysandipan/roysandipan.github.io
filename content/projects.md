@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Current PhD Students'
+date: 2024-08-12
 type: landing
 
 design:
@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: article-grid
+      view: showcase
       fill_image: false
       columns: 3
 ---
