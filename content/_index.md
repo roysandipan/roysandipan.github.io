@@ -49,7 +49,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Peer Reviewed and Preprints
       text: ""
       filters:
         folders:
@@ -58,15 +58,15 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: teaching
     content:
-      title: Recent & Upcoming Talks
+      title: Teaching
       filters:
         folders:
-          - event
+          - teaching
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     id: news
     content:
