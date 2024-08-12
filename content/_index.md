@@ -58,7 +58,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: teaching
+    id: project
     content:
       title: People
       filters:
@@ -66,7 +66,7 @@ sections:
           - project
     design:
       view: showcase
-      columns: 3
+      columns: 2
   - block: collection
     id: teaching
     content:

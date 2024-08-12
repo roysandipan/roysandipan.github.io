@@ -19,5 +19,5 @@ sections:
     design:
       view: showcase
       fill_image: false
-      columns: 3
+      columns: 2
 ---
