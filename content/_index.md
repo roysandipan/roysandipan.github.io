@@ -65,8 +65,8 @@ sections:
         folders:
           - project
     design:
-      view: showcase
-      columns: 2
+      view: article-grid
+      columns: 3
   - block: collection
     id: teaching
     content:

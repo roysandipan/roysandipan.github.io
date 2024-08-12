@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+title: Jordan Taylor (2019-)
+date: 2024-08-12
+external_link: https://researchportal.bath.ac.uk/en/persons/jordan-taylor
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Jordan is working on developing machine learning and network methods for high dimensional genetic data. Jordan is based within the SAMBa Centre for Doctoral Training. He is co-supervised by Sandipan Roy (Bath) and Lauren Cowley (Biology and Biochemistry, Bath).
 
 <!--more-->
