@@ -9,11 +9,11 @@ design:
   spacing: "6rem"
 
 sections:
-  #- block: resume-biography-3
-    #content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      #username: admin
-      #text: ""
+  - block: resume-biography-3
+    content:
+       #Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
       # Show a call-to-action button under your biography? (optional)
       #button:
         #text: ''
@@ -22,30 +22,30 @@ sections:
       #css_class: dark
       #background:
         #color: black
-        #image:
+        image:
           # Add your image background to `assets/media/`.
-          #filename: stacked-peaks.svg
-          #filters:
-            #brightness: 1.0
-          #size: cover
-          #position: center
-          #parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My core research is at the intersection of statistics, machine learning and optimisation methods. My current research is focussed on modelling data with complex high dimensional network structure and provide methodology for estimating the corresponding structure using tools from nonparametric statistics, graphical models and high dimensional inference. The emphasis is placed on developing new theoretical techniques and computational tools for network problems and applying the corresponding methodology in many fields, including biomedical and social science research, where network modelling and analysis plays an exceedingly important role. 
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+  #- block: markdown
+    #content:
+      #title: '📚 My Research'
+      #subtitle: ''
+      #text: |-
+        #My core research is at the intersection of statistics, machine learning and optimisation methods. My current research is focussed on modelling data with complex high dimensional network structure and provide methodology for estimating the corresponding structure using tools from nonparametric statistics, graphical models and high dimensional inference. The emphasis is placed on developing new theoretical techniques and computational tools for network problems and applying the corresponding methodology in many fields, including biomedical and social science research, where network modelling and analysis plays an exceedingly important role. 
         
-        As a mathematical Statistician I am also interested in high dimensional Inference in regression models and understanding the theoretical insights in the modern "big data" framework. The development of novel algorithms  along with concrete theoretical results would enable practitioners to use them in many complex real world problems. I have a recent interest also in different optimization methods and especially understanding distributed/parallel computing with large heterogeneous data. These also include fast choice of tuning parameters in optimization algorithms and their implications in the proposed inference.
+        #As a mathematical Statistician I am also interested in high dimensional Inference in regression models and understanding the theoretical insights in the modern "big data" framework. The development of novel algorithms  along with concrete theoretical results would enable practitioners to use them in many complex real world problems. I have a recent interest also in different optimization methods and especially understanding distributed/parallel computing with large heterogeneous data. These also include fast choice of tuning parameters in optimization algorithms and their implications in the proposed inference.
 
-        Recently, I have started working on deep learning with differential privacy, and associated inference problems.
+        #Recently, I have started working on deep learning with differential privacy, and associated inference problems.
         
-        Please reach out to collaborate 😃
+        #Please reach out to collaborate 😃
         
-    design:
-      view: article-grid
-      columns: 2
+    #design:
+      #view: article-grid
+      #columns: 2
   - block: collection
     id: papers
     content:
