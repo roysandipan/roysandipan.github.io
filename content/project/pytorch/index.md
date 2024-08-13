@@ -1,13 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Josh Inoue (2020-)
+summary:
+date:
+type: docs
+math: false
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+image:
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
-<!--more-->
+[Josh](https://people.bath.ac.uk/jsi24/) is working on developing novel approaches to problems arising in spatio-temporal modelling. Josh is part of the Centre for Doctoral Training in Statistical Applied Mathematics (SAMBa CDT) and is co-supervised by [Matt Nunes](https://people.bath.ac.uk/man54/homepage.html).

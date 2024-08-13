@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Dan Miles (2020-)
+summary:
+date:
+type: docs
+math: false
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+image:
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
-<!--more-->
+[Dan](https://samba.ac.uk/student/daniel-miles/) is working on developing multiple graphical structure estimation methods for data with network structure and covariates. Dan is based within the SAMBa Centre for Doctoral Training. He is co-supervised by [Vangelis Evangelou](https://researchportal.bath.ac.uk/en/persons/vangelis-evangelou).
