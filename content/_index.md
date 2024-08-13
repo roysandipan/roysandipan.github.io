@@ -58,12 +58,12 @@ sections:
     design:
       view: citation
   - block: collection
-    id: project
+    id: people
     content:
       title: People
       filters:
         folders:
-          - project
+          - people
     design:
       view: article-grid
       columns: 3

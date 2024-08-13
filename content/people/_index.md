@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Meet the Team
+title: ""
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
