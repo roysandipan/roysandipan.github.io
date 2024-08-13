@@ -1,5 +1,10 @@
 ---
 title: Team Members
 view: compact
-show_date: false
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
+      show_date: false
 ---
