@@ -58,15 +58,15 @@ sections:
     design:
       view: citation
   - block: collection
-    id: people
+    id: phd students
     content:
       title: People
       filters:
         folders:
           - people
     design:
-      view: article-grid
-      columns: 3
+      view: compact
+      columns: 1
   - block: collection
     id: teaching
     content:
