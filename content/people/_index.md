@@ -2,7 +2,7 @@
 # Page title
 title: ""
 # Page type - we want a landing page (such as a homepage)
-type: landing
+#type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
