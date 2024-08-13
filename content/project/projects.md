@@ -1,6 +1,6 @@
 ---
-title: ''
-date: 2024-08-12
+title:
+summary:
 type: landing
 
 design:
@@ -10,6 +10,7 @@ design:
 # Page sections
 sections:
   - block: collection
+    id: project
     content:
       title: Current PhD Students
       text:
