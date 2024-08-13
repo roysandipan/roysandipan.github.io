@@ -1,5 +1,5 @@
 ---
 title: Team Members
 view: compact
-show_date: false
+date: 2024-08-12
 ---
