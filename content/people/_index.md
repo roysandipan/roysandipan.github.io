@@ -2,6 +2,7 @@
 title: People
 summary: team members
 type: landing
+show_date: false
 
 #cascade:
   #- _target:
