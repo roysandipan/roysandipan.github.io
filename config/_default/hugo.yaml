@@ -53,5 +53,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-show_date: false
     

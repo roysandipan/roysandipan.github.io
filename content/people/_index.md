@@ -2,7 +2,6 @@
 title: People
 summary: team members
 type: landing
-date: 2024-08-16
 
 # Page title
 #title: My page
@@ -18,7 +17,7 @@ sections:
       title: Team Members
       #subtitle: A subtitle
       #text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # Display content from the `content/post/` folder
+      # Display content from the `content/people/` folder
       filters:
         folders:
           - people
