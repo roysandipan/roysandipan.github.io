@@ -18,7 +18,7 @@ sections:
     content:
       title: Undergraduate courses
       #subtitle: A subtitle
-      text: [Statistics for Business II](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html), [Applied Statistics](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30091.html)
+      text: "[Statistics for Business II](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html)", "[Applied Statistics](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30091.html)"
   - block: markdown
     id: PG teaching
     content:
