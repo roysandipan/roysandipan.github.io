@@ -14,16 +14,15 @@ type: landing
 
 sections:
   - block: markdown
-    id: section-1
+    id: UG teaching
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: |-
-      MA30234, MA30091
+      title: Undergraduate courses
+      #subtitle: A subtitle
+      text: [MA30234](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html), [MA30091](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30091.html)
   - block: markdown
-    id: section-2
+    id: PG teaching
     content:
-      title: Section 2
-      subtitle: A subtitle
+      title: Postgraduate courses
+      #subtitle: A subtitle
       text: Add your Section 2 content here...
 ---
