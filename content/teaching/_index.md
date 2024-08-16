@@ -18,8 +18,7 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: |-
-      Statistics for Business II, Applied Statistics
+      text: Statistics for Business II, Applied Statistics
   - block: markdown
     id: section-2
     content:
