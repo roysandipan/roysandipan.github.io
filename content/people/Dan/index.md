@@ -1,7 +1,7 @@
 ---
 title: Dan Miles (2020-)
 summary:
-date: ''
+date: ""
 type: docs
 math: false
 tags:
