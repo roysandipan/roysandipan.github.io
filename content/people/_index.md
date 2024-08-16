@@ -10,7 +10,7 @@ type: landing
       #show_breadcrumb: true
 
 sections:
-  - block: markdown
+  - block: collection
     id: Phd students
     content:
       title: Team Members
