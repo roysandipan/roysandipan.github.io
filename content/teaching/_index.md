@@ -8,7 +8,8 @@ sections:
     content:
       title: Undergraduate courses
       text: |-
-       Statistics for Business II, Applied Statistics
+       - Statistics for Business II
+       - Applied Statistics
   - block: markdown
     id: PG teaching
     content:
