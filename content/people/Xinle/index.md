@@ -3,6 +3,7 @@ title: Xinle Tian (2021-)
 summary:
 type: docs
 math: false
+show_date: false
 tags:
 image:
 ---

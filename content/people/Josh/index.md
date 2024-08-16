@@ -3,6 +3,7 @@ title: Josh Inoue (2020-)
 summary:
 type: docs
 math: false
+show_date: false
 tags:
 image:
 ---
