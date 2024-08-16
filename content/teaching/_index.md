@@ -5,30 +5,24 @@ type: landing
 #type: pages
 
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-      show_date: false
+#cascade:
+  #- _target:
+      #kind: page
+    #params:
+      #show_breadcrumb: true
+      #show_date: false
 
 sections:
   - block: markdown
-    id: UG teaching
+    id: section-1
     content:
-      title: undergraduate courses
-      text: * [MA30234: Statistics for Business II](https://www.bath.ac.uk/catalogues/2021-2022/ma/MA30234.html)
-            * [MA30091: Applied Statistics](https://www.bath.ac.uk/catalogues/2022-2023/ma/MA30091.html)
-      #filters:
-        #folders:
-          #- teaching
-    #design:
-      #view: list
-      #columns: 1
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: markdown
-    id: PG teaching
+    id: section-2
     content:
-      title: postgraduate courses
-      #subtitle: A subtitle
+      title: Section 2
+      subtitle: A subtitle
       text: Add your Section 2 content here...
 ---
