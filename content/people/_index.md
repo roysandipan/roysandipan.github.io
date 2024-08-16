@@ -1,6 +1,7 @@
 ---
 title: People
 summary: team members
+show_date: false
 type: landing
 
 # Page title
@@ -28,5 +29,4 @@ sections:
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: false
-show_date: false
 ---
