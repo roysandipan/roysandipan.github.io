@@ -18,12 +18,11 @@ sections:
     content:
       title: Undergraduate courses
       #subtitle: A subtitle
-      text: |
-      [MA30234](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html)
+      text: MA30234, MA30091
   - block: markdown
     id: PG teaching
     content:
       title: Postgraduate courses
       #subtitle: A subtitle
-      text: Add your Section 2 content here...
+      text: MA50259
 ---
