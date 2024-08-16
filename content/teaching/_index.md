@@ -18,7 +18,7 @@ sections:
     content:
       title: Undergraduate courses
       #subtitle: A subtitle
-      text: '[Statistics for Business II](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html)', '[Applied Statistics](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30091.html)'
+      text: [Jordan](https://samba.ac.uk/student/jordan-taylor/) is working on developing machine learning and network methods for high dimensional genetic data. Jordan is based within the SAMBa Centre for Doctoral Training. He is co-supervised by [Matt Nunes](https://people.bath.ac.uk/man54/homepage.html) and [Lauren Cowley](https://researchportal.bath.ac.uk/en/persons/lauren-cowley).
   - block: markdown
     id: PG teaching
     content:
