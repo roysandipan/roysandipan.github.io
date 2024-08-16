@@ -18,8 +18,8 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: Statistics for Business II
-      Applied Statistics
+      text: |-
+      MA30234, MA30091
   - block: markdown
     id: section-2
     content:
