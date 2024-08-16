@@ -67,16 +67,7 @@ sections:
     design:
       view: compact
       columns: 1
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+      
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

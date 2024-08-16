@@ -18,7 +18,9 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: |-
+      * [MA30234: Statistics for Business II](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html)
+      * [MA30091: Applied Statistics](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30091.html)
   - block: markdown
     id: section-2
     content:
