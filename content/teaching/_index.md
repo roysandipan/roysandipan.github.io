@@ -18,7 +18,10 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: [Statistics for Business II](https://www.bath.ac.uk/catalogues/2023-2024/ma/MA30234.html)
+      text: |-
+      - First item
+       - A sub-item
+      - Another item
   - block: markdown
     id: section-2
     content:
