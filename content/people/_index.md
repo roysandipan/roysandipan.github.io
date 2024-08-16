@@ -2,6 +2,7 @@
 title: People
 summary: team members
 type: landing
+date: 2024-08-16
 
 # Page title
 #title: My page
@@ -12,11 +13,11 @@ type: landing
 sections:
   # A section to display blog posts
   - block: collection
-    id: section-1
+    id: PhD Students
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Team Members
+      #subtitle: A subtitle
+      #text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Display content from the `content/post/` folder
       filters:
         folders:
@@ -27,25 +28,5 @@ sections:
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
 ---
-
-#cascade:
-  #- _target:
-      #kind: page
-    #params:
-      #show_breadcrumb: true
-
-#sections:
-  #- block: collection
-    #show_date: false
-    #id: Phd students
-    #content:
-      #title: Team Members
-      #filters:
-        #folders:
-          #- people
-    #design:
-      #columns: 1
-      #view: showcase
-      #flip_alt_rows: false
