@@ -18,6 +18,7 @@ sections:
         folders:
           - people
     design:
-      view: list
       columns: 1
+      view: showcase
+      flip_alt_rows: false
 ---
