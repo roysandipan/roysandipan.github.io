@@ -17,7 +17,7 @@ sections:
       filters:
         folders:
           - people
-    #design:
-      #view: list
-      #columns: 1
+    design:
+      view: list
+      columns: 1
 ---
