@@ -3,7 +3,7 @@ title: Jordan Taylor (2019-)
 summary:
 type: docs
 math: false
-show_date: false
+date: 2024-08-16
 tags:
 image:
 ---
