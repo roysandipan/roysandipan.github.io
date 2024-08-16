@@ -1,24 +1,23 @@
 ---
 title: People
-summary:
+summary: team members
 type: landing
-show_date: false
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+#cascade:
+  #- _target:
+      #kind: page
+    #params:
+      #show_breadcrumb: true
 
 sections:
-  - block: collection
+  - block: markdown
     id: Phd students
     content:
       title: Team Members
       filters:
         folders:
           - people
-    design:
-      view: list
-      columns: 1
+    #design:
+      #view: list
+      #columns: 1
 ---
