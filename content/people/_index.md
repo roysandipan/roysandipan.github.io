@@ -2,7 +2,6 @@
 title: People
 summary: team members
 type: landing
-show_date: false
 
 #cascade:
   #- _target:
@@ -12,6 +11,7 @@ show_date: false
 
 sections:
   - block: collection
+    show_date: false
     id: Phd students
     content:
       title: Team Members
