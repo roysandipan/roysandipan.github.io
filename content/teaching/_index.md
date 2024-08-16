@@ -14,6 +14,7 @@ sections:
     id: PG teaching
     content:
       title: Postgraduate courses
-      text: Statistical Design of Investigations
+      text: |-
+       - Statistical Design of Investigations
 
 ---
